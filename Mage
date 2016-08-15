@@ -1,0 +1,15 @@
+Mage macro
+
+water elemental & ray of frost
+in to one singel buton
+
+#showtooltip Summon Water Elemental
+/cast [talent:1/1] Ray of Frost
+/cast [nopet] Summon Water Elemental
+/stop macro [nopet]
+/petassist
+/petattack
+/cast Freeze
+/cast 
+
+/cast [talent:3/1] Mirror Image; [talent:3/2] Rune of Power
